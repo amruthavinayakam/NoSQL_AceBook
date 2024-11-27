@@ -5,7 +5,7 @@
                 <h1 class="mb-6 text-2xl">Log in</h1>
 
                 <p class="mb-6 text-gray-500">
-                    Connect, Share, and Inspire – Join Us Today!"
+                    Connect, Share, and Inspire – Join Us Today!
                     Login now to unlock a world of connections and creativity. Your story starts here at AceBook!
                 </p>
 
